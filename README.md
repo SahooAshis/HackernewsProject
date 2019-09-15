@@ -30,9 +30,6 @@ This project can be run in two ways listed below
 	python run.py
 	``` 
 	</br>
-2. Using executable run.exe file present in folder "./dist/"
-
-
 
 
 
